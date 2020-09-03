@@ -24,15 +24,15 @@
     "CC0-1.0",
     "CC-BY-3.0",
     "CC-BY-4.0",
-    "AFL-2.1",
     "WTFPL",
     "Artistic-2.0",
     "EPL-1.0",
     "MPL 1.1",
     "Public Domain",
-    "CPL-1.0"
+    "CPL-1.0",
+    "AFL-2.1"
   ],
   "projects": [
-    "./example/package-lock.json"
+    "./package-lock.json"
   ]
 }
